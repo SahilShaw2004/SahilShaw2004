@@ -16,7 +16,11 @@
 <a href="https://linkedin.com/in/sahil shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil shaw" height="30" width="40" /></a>
 <a href="https://instagram.com/sahilshaw3162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilshaw3162" height="30" width="40" /></a>
 </p>
+<p><h2 style="text-decoration: none; cursor: none;">☄️  <span style="color: #00c2e0">Hacktober Fest 2023:</span></h2></p>
 
+![](https://holopin.me/sahilshaw2004)
+
+[![An image of @sahilshaw2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilshaw2004)](https://holopin.io/@sahilshaw2004)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
