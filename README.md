@@ -19,8 +19,6 @@
 <p><h2 style="text-decoration: none; cursor: none;">☄️  <span style="color: #00c2e0">Hacktober Fest 2024:</span></h2></p>
 
 ![](https://holopin.me/sahilshaw2004)
-
-[![An image of @sahilshaw2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilshaw2004)]
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
