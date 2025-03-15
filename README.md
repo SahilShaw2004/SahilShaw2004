@@ -10,6 +10,13 @@
 - 📫 How to reach me **shawsahil488@gmail.com**
 
 - 🚀 Check out my recent project **[Campus Connect](https://campusconnect-wrgc.onrender.com/home/)**
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SahilShaw2004/SahilShaw2004/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SahilShaw2004/SahilShaw2004/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SahilShaw2004/SahilShaw2004/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
