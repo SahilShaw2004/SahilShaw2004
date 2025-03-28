@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shawsahil488@gmail.com**
 
-- 🚀 Check out my recent project **[Campus Connect](https://campusconnect-wrgc.onrender.com/home/)**
+- 🚀 Check out my recent project **[Saarthi](https://campusconnect-wrgc.onrender.com/home/)**
 
 <!--START_SECTION:chessStats-->
 
