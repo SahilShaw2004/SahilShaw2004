@@ -30,4 +30,20 @@ new_section = f"""<!-- CHESS_BOARD_START -->
 ## ♟️ Current Board:
 
 ```text
-{formatted_board}
+{formatted_board}```
+<!-- CHESS_BOARD_END -->
+"""
+
+# Read README.md content
+with open("README.md", "r", encoding="utf-8") as f:
+    readme_content = f.read()
+
+# Replace content between markers with new_section
+pattern = re.compile(r"<!-- CHESS_BOARD_START -->.*?<!-- CHESS_BOARD_END -->", re.DOTALL)
+updated_readme = pattern.sub(new_section, readme_content)
+
+# Write updated content back to README.md
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write(updated_readme)
+
+print("README.md updated successfully.")
