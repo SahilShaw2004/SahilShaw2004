@@ -88,7 +88,7 @@ Also contributing to open-source and constantly improving my problem-solving ski
 
 ## 📋 Board
 <!-- CHESS_BOARD_START -->
-**Current Turn:** `White`
+**Current Turn:** `Black`
 
 ## ♟️ Current Board:
 
@@ -97,13 +97,14 @@ Also contributing to open-source and constantly improving my problem-solving ski
 | 8 | ♜ |   | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
 | 7 | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ |
 | 6 |   |   | ♞ |   |   |   |   |   |
-| 5 |   |   |   |   |   |   |   |   |
+| 5 |   | ♗ |   |   |   |   |   |   |
 | 4 |   |   |   |   | ♙ |   |   |   |
 | 3 |   |   |   |   |   |   |   |   |
 | 2 | ♙ | ♙ | ♙ | ♙ |   | ♙ | ♙ | ♙ |
-| 1 | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
+| 1 | ♖ | ♘ | ♗ | ♕ | ♔ |   | ♘ | ♖ |
 
 <!-- CHESS_BOARD_END -->
+
 
 
 
