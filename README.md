@@ -130,7 +130,7 @@ const contact = {
   phone: "+918100374419",
 }
 ```
-
+[![An image of @sahilshaw2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahilshaw2004)](https://holopin.io/@sahilshaw2004)
 ```typescript
 // Thanks for visiting my profile!
 console.log("Let's connect and collaborate on exciting projects!");
