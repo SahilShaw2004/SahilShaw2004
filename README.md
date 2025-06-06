@@ -168,6 +168,10 @@ const socials = {
 <div>
 <a href="https://github.com/SahilShaw2004"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="http://linkedin.com/in/sahil-shaw-262b19250/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/SahilSh64025258"><img src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://leetcode.com/u/Sahil_Shaw_2004/"><img src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a> 
 </div>
+<h2 align="center">📊 My 3D GitHub Contributions</h2>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
 
 ## 📫 How to reach me
 
