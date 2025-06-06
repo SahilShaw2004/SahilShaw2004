@@ -83,10 +83,9 @@ Also contributing to open-source and constantly improving my problem-solving ski
 
 ## 📋 Board
 <!-- CHESS_BOARD_START -->
-**Current Turn:** `White`
+**Current Turn:** `Black`
 
 ## ♟️ Current Board:
-
 
 |   | A | B | C | D | E | F | G | H |
 |---|---|---|---|---|---|---|---|---|
@@ -94,12 +93,13 @@ Also contributing to open-source and constantly improving my problem-solving ski
 | 7 | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ |
 | 6 |   |   |   |   |   |   |   |   |
 | 5 |   |   |   |   |   |   |   |   |
-| 4 |   |   |   |   |   |   |   |   |
+| 4 |   |   |   |   | ♙ |   |   |   |
 | 3 |   |   |   |   |   |   |   |   |
-| 2 | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
+| 2 | ♙ | ♙ | ♙ | ♙ |   | ♙ | ♙ | ♙ |
 | 1 | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
 
 <!-- CHESS_BOARD_END -->
+
 
 ---
 ## 📝 How to Make a Move
