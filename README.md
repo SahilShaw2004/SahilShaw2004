@@ -75,7 +75,42 @@ Also contributing to open-source and constantly improving my problem-solving ski
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilShaw2004&theme=dark&hide_border=false" />
 </div>
+# ♟️ Sahil's Community Chess Tournament
 
+**It's Black's turn! Click a move below to participate.**
+
+---
+
+## 📋 Board
+
+|   | A | B | C | D | E | F | G | H |
+|---|---|---|---|---|---|---|---|---|
+| 8 | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
+| 7 | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ |
+| 6 |   |   |   |   |   |   |   |   |
+| 5 |   |   |   |   |   |   |   |   |
+| 4 |   |   |   |   |   |   |   |   |
+| 3 |   |   |   |   |   |   |   |   |
+| 2 | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
+| 1 | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
+
+---
+
+## 🎯 Make a Move
+
+| From | To |
+|------|----|
+| A7   | [A6](#), [A5](#) |
+| B7   | [B6](#), [B5](#) |
+| C7   | [C6](#), [C5](#) |
+
+---
+
+## ⚙️ Game Info
+
+- Last Move: _None_
+- Next Turn: **Black**
+- Move by editing `game.json` or sending a PR!
 ## 💻 Tech Stack
 
 ```json
