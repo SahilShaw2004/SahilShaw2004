@@ -82,7 +82,7 @@ Also contributing to open-source and constantly improving my problem-solving ski
 ---
 
 ## 📋 Board
-
+<!-- CHESS_BOARD_START -->
 |   | A | B | C | D | E | F | G | H |
 |---|---|---|---|---|---|---|---|---|
 | 8 | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
@@ -93,7 +93,7 @@ Also contributing to open-source and constantly improving my problem-solving ski
 | 3 |   |   |   |   |   |   |   |   |
 | 2 | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
 | 1 | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
-
+<!-- CHESS_BOARD_END -->
 ---
 ## 📝 How to Make a Move
 
