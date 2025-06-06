@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="./banner.jpeg" alt="Banner" width="100%" />
-</p>
-
+<div align="center">
+  <img src="./banner.jpeg" alt="Banner" width="800" style="margin-right: 10px;"/>
+  <img src="./phone-on.gif" alt="Phone Preview" width="200"/>
+</div>
 
 
 # Sahil Shaw
