@@ -95,22 +95,26 @@ Also contributing to open-source and constantly improving my problem-solving ski
 | 1 | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
 
 ---
+## 📝 How to Make a Move
 
-## 🎯 Make a Move
+Anyone can play — just follow the rules below and open a pull request!
 
-| From | To |
-|------|----|
-| A7   | [A6](#), [A5](#) |
-| B7   | [B6](#), [B5](#) |
-| C7   | [C6](#), [C5](#) |
+### ✅ Format:
+> Your move must be in **this format**:  
+> `E2 to E4` *(case-insensitive, one move only)*
+
+### 🔁 Rules:
+- You must **only change `game.json`**
+- Make **only one piece move** in the board array
+- Switch `"turn"` to the other player (`white` → `black`, or vice versa)
+- Don't touch `README.md` (it updates automatically)
 
 ---
 
-## ⚙️ Game Info
-
-- Last Move: _None_
-- Next Turn: **Black**
-- Move by editing `game.json` or sending a PR!
+### ⚠️ Invalid PRs will be closed if:
+- More than one piece was moved
+- It's not your turn
+- The move format is incorrect
 ## 💻 Tech Stack
 
 ```json
