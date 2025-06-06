@@ -172,7 +172,9 @@ const socials = {
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
-
+<p align="center">
+  <img src="./phone-on.gif" />
+</p>
 ## 📫 How to reach me
 
 ```javascript
