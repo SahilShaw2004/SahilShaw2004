@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./banner.jpeg" alt="Banner" width="100%" />
+</p>
+
+
+
 # Sahil Shaw
 
 ```typescript
