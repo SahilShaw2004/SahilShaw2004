@@ -77,7 +77,7 @@ Also contributing to open-source and constantly improving my problem-solving ski
 </div>
 # ♟️ Sahil's Community Chess Tournament
 
-**It's Black's turn! Click a move below to participate.**
+**It's White's turn! Click a move below to participate.**
 
 ---
 
