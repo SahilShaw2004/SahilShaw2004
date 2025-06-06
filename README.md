@@ -1,6 +1,5 @@
 <div align="center">
   <img src="./banner.jpeg" alt="Banner" width="800" style="margin-right: 10px;"/>
-  <img src="./phone-on.gif" alt="Phone Preview" width="200"/>
 </div>
 
 
@@ -181,6 +180,13 @@ const socials = {
 <p align="center">
   <img src="./phone-on.gif" />
 </p>
+
+## 👥 Contributors
+
+<a href="https://github.com/SahilShaw2004/SahilShaw2004/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SahilShaw2004/SahilShaw2004" />
+</a>
+
 ## 📫 How to reach me
 
 ```javascript
