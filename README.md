@@ -1,52 +1,139 @@
-<h1 align="center">Hi 👋, I'm Sahil Shaw</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Sahil Shaw
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilshaw2004" alt="sahilshaw2004" /></a> </p>
+```typescript
+const profile = {
+  name: "Sahil Shaw",
+  bio: "I'm Sahil Shaw, a B.Tech student in Information Technology at Techno Main Saltlake, Kolkata (2022–2026). I'm passionate about full-stack web development, modern JavaScript frameworks, and building impactful user-centric projects. I enjoy working on innovative solutions, demonstrated through hackathon-winning platforms like Saarthi and College Club Management.",
+  currentWork: "Currently, I'm focused on building scalable, responsive web applications using React.js, JavaScript, and CSS. I recently developed:
 
-- 🌱 I’m currently learning **React.js**
+Saarthi – a mentorship platform with WebRTC-based video calls and session tracking.
 
-- 👯 I’m looking to collaborate on **Front-end Development**
+Movie Dunia – a movie discovery app using OMDB/TMDB APIs.
 
-- 📫 How to reach me **shawsahil488@gmail.com**
+Also contributing to open-source and constantly improving my problem-solving skills through platforms like LeetCode and GitHub.",
+  skills: [
+    "React",
+    "Tailwind",
+    "Bootstrap",
+    "HTML5",
+    "Material UI",
+    "CSS3",
+    "Node.js",
+    "MongoDB",
+    "Docker",
+    "React Native",
+    "JavaScript",
+    "Java",
+    "C++",
+    "C"
+  ],
+}
+```
 
-- 🚀 Check out my recent project **[Saarthi](https://github.com/SahilShaw2004/Saarthi.git)**
+## 🔭 I'm currently working on
 
-<!--START_SECTION:chessStats-->
+Currently, I'm focused on building scalable, responsive web applications using React.js, JavaScript, and CSS. I recently developed:
 
-<!--END_SECTION:chessStats-->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sahil shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil shaw" height="30" width="40" /></a>
-<a href="https://instagram.com/sahilshaw3162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilshaw3162" height="30" width="40" /></a>
+Saarthi – a mentorship platform with WebRTC-based video calls and session tracking.
+
+Movie Dunia – a movie discovery app using OMDB/TMDB APIs.
+
+Also contributing to open-source and constantly improving my problem-solving skills through platforms like LeetCode and GitHub.
+
+## 👀 Visitor Count
+
+<!-- ⚠️ Important: Replace 'SahilShaw2004' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/SahilShaw2004/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
 </p>
-<p><h2 style="text-decoration: none; cursor: none;">☄️  <span style="color: #00c2e0">Hacktober Fest 2024:</span></h2></p>
 
-![](https://holopin.me/sahilshaw2004)
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwi
+## 🏆 GitHub Trophies
+
+<!-- ⚠️ Important: Replace 'SahilShaw2004' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SahilShaw2004&theme=onedark&column=7&margin-w=15&margin-h=15" />
+</p>
+
+## 📊 GitHub Stats
+
+<!-- ⚠️ Important: Replace 'SahilShaw2004' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahilShaw2004&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+## 🔝 Most Used Languages
+
+<!-- ⚠️ Important: Replace 'SahilShaw2004' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilShaw2004&layout=compact&langs_count=10&theme=dark"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'SahilShaw2004' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilShaw2004&theme=dark&hide_border=false" />
+</div>
+
+## 💻 Tech Stack
+
+```json
+{
+  "frontend": [
+    "React",
+    "Tailwind",
+    "Bootstrap",
+    "HTML5",
+    "Material UI",
+    "CSS3"
+  ],
+  "backend": [
+    "Node.js",
+    "MongoDB"
+  ],
+  "devops": [
+    "Docker"
+  ],
+  "mobile": [
+    "React Native"
+  ],
+  "languages": [
+    "JavaScript",
+    "Java",
+    "C++",
+    "C"
+  ]
+}
+```
+
+## 🌐 Socials
+
+```javascript
+const socials = {
+  github: "SahilShaw2004",
+  linkedin: "http://linkedin.com/in/sahil-shaw-262b19250/",
+  twitter: "SahilSh64025258",
+  leetcode: "https://leetcode.com/u/Sahil_Shaw_2004/",
+}
+```
+
+<div>
+<a href="https://github.com/SahilShaw2004"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="http://linkedin.com/in/sahil-shaw-262b19250/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/SahilSh64025258"><img src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://leetcode.com/u/Sahil_Shaw_2004/"><img src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a> 
+</div>
+
+## 📫 How to reach me
+
+```javascript
+const contact = {
+  email: "shawsahil488@gmail.com",
+  phone: "+918100374419",
+}
+```
+
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
+
+process.exit(0); // Until next time 👋
+```
