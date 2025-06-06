@@ -15,22 +15,23 @@ with open("game.json", "r") as f:
 board = game["board"]
 turn = game["turn"]
 
-# Format board into a string
-header = "    A   B   C   D   E   F   G   H\n"
-divider = "  +---+---+---+---+---+---+---+---+\n"
+# Format board into markdown table string
+header = "|   | A | B | C | D | E | F | G | H |\n"
+divider = "|---|---|---|---|---|---|---|---|---|\n"
 rows = ""
 for i, row in enumerate(board):
-    rows += f"{8 - i} | " + " | ".join([symbols[sq] for sq in row]) + " |\n"
-formatted_board = header + divider + rows + divider
+    row_symbols = [symbols[sq] if sq in symbols else sq for sq in row]
+    rows += f"| {8 - i} | " + " | ".join(row_symbols) + " |\n"
 
-# Create new chess section content
+formatted_board = header + divider + rows
+
+# Create new chess section content (no code block, just markdown)
 new_section = f"""<!-- CHESS_BOARD_START -->
 **Current Turn:** `{turn.capitalize()}`
 
 ## ♟️ Current Board:
 
-```text
-{formatted_board}```
+{formatted_board}
 <!-- CHESS_BOARD_END -->
 """
 
