@@ -80,9 +80,11 @@ Also contributing to open-source and constantly improving my problem-solving ski
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilShaw2004&theme=dark&hide_border=false" />
 </div>
+
+
 # ♟️ Sahil's Community Chess Tournament
 
-**It's White's turn! Click a move below to participate.**
+**Click a move below to participate.**
 
 ---
 
